@@ -9,5 +9,5 @@
 {"sourceName":"第三方仓库5","sourceUrl":""},
 {"sourceName":"第三方仓库6","sourceUrl":""},
 {"sourceName":"第三方仓库7","sourceUrl":""},
-{"sourceName":"第三方仓库8","sourceUrl":""},
+{"sourceName":"第三方仓库8","sourceUrl":""}
 ]}
