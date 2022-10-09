@@ -1,5 +1,6 @@
 {"urls":[
 {"sourceName":"My仓库","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/juyou_api.txt"},
+{"sourceName":"云星仓库","sourceUrl":"https://maoyingshi.cc/可视TV/117/api.json"},
 {"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_1.txt"},
 {"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_2.txt"},
 {"sourceName":"白嫖影视","sourceUrl":"http://maoyingshi.cc//tv/update_yuan"},
