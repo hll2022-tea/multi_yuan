@@ -10,7 +10,7 @@
 {"sourceName":"安卓哥开发6号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/4"},
 {"sourceName":"安卓哥开发7号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/5"},
 {"sourceName": "安卓哥开发js仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
-{"sourceName": "安卓哥开发py仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"}
+{"sourceName": "安卓哥开发py仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
 {"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_1.txt"},
 {"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_2.txt"},
 {"sourceName":"白嫖影视","sourceUrl":"http://maoyingshi.cc//tv/update_yuan"},
