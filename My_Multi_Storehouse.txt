@@ -9,5 +9,7 @@
 {"sourceName": "安卓哥开发py仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
 {"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_1.txt"},
 {"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_2.txt"},
-{"sourceName":"白嫖影视","sourceUrl":"http://maoyingshi.cc//tv/update_yuan"}
+{"sourceName":"白嫖影视","sourceUrl":"http://maoyingshi.cc//tv/update_yuan"},
+{"sourceName":"欧歌1号仓库","sourceUrl":"http://tv.nxog.top/m/xb/18.php?b=欧歌"},
+{"sourceName":"欧歌2号仓库","sourceUrl":"http://tv.nxog.top/m/xb/19.php?b=欧歌"}
 ]}
