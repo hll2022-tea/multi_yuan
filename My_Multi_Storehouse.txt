@@ -10,6 +10,11 @@
 {"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_1.txt"},
 {"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://github.com/hll2022-tea/tvbox/blob/main/multi_xianl_2.txt"},
 {"sourceName":"白嫖影视","sourceUrl":"http://maoyingshi.cc//tv/update_yuan"},
-{"sourceName":"欧歌1号仓库","sourceUrl":"http://tv.nxog.top/m/xb/18.php?b=欧歌"},
-{"sourceName":"欧歌2号仓库","sourceUrl":"http://tv.nxog.top/m/xb/19.php?b=欧歌"}
+{"sourceName": "欧歌主仓库","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName": "欧歌备1仓库","sourceUrl": "http://1.nxog.top/nxog/ou1.php?url=http://1.nxog.top&xl=1&b=欧歌"}, 
+{"sourceName": "欧歌备2仓库","sourceUrl": "http://2.nxog.top/nxog/ou1.php?url=http://2.nxog.top&xl=2&b=欧歌"}, 
+{"sourceName": "欧歌备3仓库","sourceUrl": "http://3.nxog.top/nxog/ou1.php?url=http://3.nxog.top&xl=3&b=欧歌"},
+{"sourceName": "🌼欧歌备4仓库🌼","sourceUrl": "http://4.nxog.top/nxog/ou1.php?url=http://4.nxog.top&xl=4&b=欧歌"},
+{"sourceName": "欧歌5测试仓库","sourceUrl": "http://5.nxog.top/nxog/ou1.php?url=http://5.nxog.top&xl=5&b=欧歌"},
+{"sourceName": "☘️本地仓库☘️","sourceUrl": "http://tv.nxog.top/nxog/bd.php?b=欧歌"}
 ]}
