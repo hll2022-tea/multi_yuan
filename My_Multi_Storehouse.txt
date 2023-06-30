@@ -1,7 +1,7 @@
 {"urls":[
-{"sourceName":"My仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/blob/main/juyou_api.txt"},
-{"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/blob/main/multi_xianl_1.txt"},
-{"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/blob/main/multi_xianl_2.txt"},
+{"sourceName":"My仓库","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/juyou_api.txt"},
+{"sourceName":"应用自带","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"},
+{"sourceName":"拼合","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/multi_xianl_2.txt"},
 {"sourceName": "星河家庭仓库","sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
 {"sourceName": "安卓哥开发1号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
 {"sourceName": "安卓哥开发2号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
