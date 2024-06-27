@@ -1,9 +1,6 @@
 {"storeHouse":[
 {"sourceName":"My仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/juyou_api.txt"},
-{"sourceName":"My网络仓库","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"},
-{"sourceName": "星河家庭仓库","sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
-{"sourceName": "安卓哥开发1号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
-{"sourceName": "安卓哥开发2号仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName":"My网络仓库","sourceUrl":"https://raw.gitmirror.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"},
 {"sourceName": "安卓哥开发js仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
 {"sourceName": "安卓哥开发py仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
 {"sourceName": "欧歌主仓库","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
