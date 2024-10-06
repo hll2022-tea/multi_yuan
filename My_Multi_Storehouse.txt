@@ -1,5 +1,5 @@
 {"storeHouse":[
-{"sourceName":"My仓库","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/hll2022-tea/tvbox/main/juyou_api.txt"},
+{"sourceName":"My仓库","sourceUrl":"https://raw.gitmirror.com/hll2022-tea/tvbox/main/juyou_api.txt"},
 {"sourceName":"My网络仓库","sourceUrl":"https://raw.gitmirror.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"},
 {"sourceName": "安卓哥开发js仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
 {"sourceName": "安卓哥开发py仓库","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
