@@ -1,4 +1,5 @@
 {"storeHouse":[
 {"sourceName":"My仓库","sourceUrl":"https://raw.kkgithub.com/hll2022-tea/tvbox/main/juyou_api.txt"},
-{"sourceName":"My网络仓库","sourceUrl":"https://raw.kkgithub.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"}
+{"sourceName":"My网络仓库","sourceUrl":"https://raw.kkgithub.com/hll2022-tea/tvbox/main/multi_xianl_1.txt"},
+{"sourceName":"MyPaste仓库","sourceUrl":"https://pastebin.com/raw/Xt8y8GaU"}
 ]}
